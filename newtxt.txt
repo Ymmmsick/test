@@ -1,3 +1,5 @@
 this is a new text file!
 a new line!
 second modify!
+1
+2
